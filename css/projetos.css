@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    background-color: whitesmoke;
+    padding: auto;
+    margin: 0px;
+}
+
+#titulo{
+    font-family: 'Raleway', sans-serif;
+    color: #4f4f4f;
+    font-size: 2rem;
+    letter-spacing: 0.6rem;
+}
+
+#projetos{
+    margin: 0px;
+}

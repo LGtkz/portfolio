@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    background-color:#FFFFFF;
+    padding: 0%;
+    border-left: #4F4F4F solid 0.2rem;
+}
+.main_container{
+    display: flex;
+    flex-direction: column;
+    padding: 0rem;
+    padding-top: 0rem;
+    align-items: left;
+    padding-left: 2rem;
+    gap: 0rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+#txt_principal{
+    font-size: 11.5rem;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+    color:#4F4F4F;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.9rem;
+    padding-bottom: 0rem;
+}
+
+#rodape{
+    font-family: 'Raleway', sans-serif;
+    color: #4F4F4F;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+}
+
+#contato{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    color: #4F4F4F;
+    font-style: italic;
+    padding: 0px;
+    font-size: 1rem;
+    display: flex;
+    gap: 0rem;
+}
+
+#bandeira{
+    width: 1.2rem;
+    height: 0.9rem;
+}
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 2rem;
+    padding-left: 2.5rem;
+    gap: 4rem;  
+    font-family: 'Raleway', sans-serif;
+    color: #4F4F4F;
+    font-weight: bolder;
+    font-size: 2rem;
+    font-style: italic;
+}
+
+#seta{
+    width: 4rem;
+    height: 2.87rem;
+}
+
+#zap{
+    text-decoration: none;
+    color: #4F4F4F;
+}
